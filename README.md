@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Allan Corker 
+# Hi there 👋, I'm Allan Corker Abiud
 
 ## About Me 
 
@@ -27,6 +27,12 @@ House Stabilization Services Website – A collaborative project for property se
 When I'm not coding, you can find me:
 
 🎹 Playing piano | 🎧 Exploring new tech trends | 🔍 Watching content on cutting-edge technologies
+
+## GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=allancorker)
+
+## Most Used Languages
+![Your Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=allancorker)
 
 ## 📫 Connect with Me
 📧 Email: abiudcorker@gmail.com
