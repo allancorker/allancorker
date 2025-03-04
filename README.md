@@ -17,6 +17,7 @@ House Stabilization Services Website – A collaborative project for property se
 
 ## 🎵 Hobbies & Interests
 When I'm not coding, you can find me:
+
 🎹 Playing piano | 🎧 Exploring new tech trends | 🔍 Watching content on cutting-edge technologies
 
 ## 📫 Connect with Me
