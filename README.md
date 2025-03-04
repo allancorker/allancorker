@@ -38,7 +38,7 @@ When I'm not coding, you can find me:
 
 
 ## GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=allancorker)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=allancorker&theme=dark&show_icons=true)
 
 ## Most Used Languages
-![Your Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=allancorker)
+![Your Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=allancorker&theme=dark)
