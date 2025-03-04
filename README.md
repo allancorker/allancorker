@@ -1,6 +1,5 @@
 ## Hi there 👋, I'm Allan Corker 
 
-<!--
 About Me
 Hi again 👋 I'm a MERN Stack Developer passionate about building scalable and efficient web applications. I specialize in MongoDB, Express.js, React, and Node.js (MERN), crafting both front-end and back-end solutions that deliver seamless user experiences. I love solving complex problems, optimizing performance, and staying up-to-date with the latest web technologies. Whether it's developing RESTful APIs, working with databases, or creating dynamic UIs, I'm always up for the challenge. Check out my projects and feel free to connect! 🚀
 
@@ -23,4 +22,3 @@ When I'm not coding, you can find me:
 📧 Email: abiudcorker@gmail.com
 🔗 LinkedIn: www.linkedin.com/in/allan-corker
 📞 WhatsApp / Phone: +254115142791
--->
